@@ -1,0 +1,19 @@
+.Faceit {
+    width: 125px;
+    margin: auto;
+
+    background: #ff8000;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.logo {
+    width: 100%;
+}
+
+.logo .cls-1 {
+    fill: none;
+}
+.logo .cls-2 {
+    clip-path: url(#clip-path);
+}

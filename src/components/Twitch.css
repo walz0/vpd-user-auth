@@ -1,4 +1,4 @@
-.Riot {
+.Twitch {
     width: 90%;
     height: 60px;
     margin: auto;
@@ -6,16 +6,16 @@
 
     cursor: pointer;
 
-    background: #1b1b1b;
+    background: #9146ff;
     border-radius: 10px;
 
     margin-top: 15px;
 }
 
-.riot-logo {
-    width: 100%;
+.twitch-logo .cls-1 {
+    fill: #fff;
 }
 
-.riot-logo svg {
-    fill: #fff;
+.twitch-logo .cls-2 {
+    fill: #9146ff;
 }

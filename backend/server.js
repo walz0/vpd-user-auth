@@ -14,7 +14,7 @@ app.get("/", (req,res) => {
 app.get("/oauth", (req,res) => {
 	const query = url.parse(req.url, true).query;
 	const code = query['code'];
-	console.log("FACEIT code:", code);
+	// process codes / tokens
 	res.send(code);
 });
 
